@@ -1,4 +1,4 @@
-/*
+f/*
 * Skeleton V1.1
 * Copyright 2011, Dave Gamache
 * www.getskeleton.com
@@ -71,4 +71,10 @@
 		font-size: 22px;
 		line-height: 24px;
 	}
+}
+
+/* Printing table headers */
+@media print
+{
+	thead {display: table-header-group;}
 }
