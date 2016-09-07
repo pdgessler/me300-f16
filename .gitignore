@@ -1,0 +1,7 @@
+_site/
+grades/
+class/
+.DS_Store
+.*.swp
+.idea
+*.lock

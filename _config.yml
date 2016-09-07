@@ -1,0 +1,6 @@
+# General Jekyll Config
+highlighter: rouge
+url: "http://pdgessler.github.io/me300-f16"
+repo: me300-f16
+lsi: false
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
