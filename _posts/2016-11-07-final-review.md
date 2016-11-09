@@ -10,7 +10,7 @@ Also review the [Midterm Review Problems/Solutions](https://pdgessler.github.io/
 since the exam will be cumulative but focus primarily on post-midterm material.
 These problems are totally optional and will not be collected or graded.
 
-The solutions will be posted here on Wednesday, 9 November 2016.
+The solutions are available [here](https://dl.dropboxusercontent.com/u/10724484/me300/FinalReview-Solution.pdf).
 
 Just a reminder, the final exam is closed-book, closed-notes. You may use a hand calculator.
 Please arrive on time with lab reports ready to turn in, so we can start the exam promptly.
